@@ -5,4 +5,4 @@ def sum(arg):
     print("Now I will return the total!!!")
     return total
 
-sum([1,2,3,4])
+sum([1,2,3,4,5])
